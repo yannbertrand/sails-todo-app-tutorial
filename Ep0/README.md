@@ -3,9 +3,9 @@
 **Statut :** Rédaction du script
 
 * ~~Voir la vidéo~~
-* ~~[Lire le script](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep0/SCRIPT.md#Épisode-0-présentation)~~
-* [Télécharger la diapo](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep0/SailsToDoApp-Ep0.pdf) (format pdf)
+* ~~[Lire le script](./SCRIPT.md#Épisode-0-présentation)~~
+* [Télécharger la diapo](./SailsToDoApp-Ep0.pdf) (format pdf)
 
 ## Navigation
 
-* [Aller à l'épisode 1](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep1#Épisode-1-installations-et-création-du-projet-sails)
+* [Aller à l'épisode 1](../Ep1#Épisode-1-installations-et-création-du-projet-sails)
