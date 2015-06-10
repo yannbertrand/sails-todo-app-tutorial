@@ -1,6 +1,6 @@
 # [Épisode 1] Installations et création du projet Sails
 
-* [Retour au sommaire](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep1#Épisode-1-installations-et-création-du-projet-sails)
+* [Retour au sommaire](./#Épisode-1-installations-et-création-du-projet-sails)
 
 ## Slide 1 - Titre
 
@@ -65,6 +65,6 @@ Tout est prêt, je vous invite de suite à passer à l'épisode suivant pour con
 
 ## Navigation
 
-* ~~[Aller au script de l'épisode 2](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep2/SCRIPT.md#Épisode-2-configuration-du-serveur)~~
-* [Aller au sommaire de l'épisode 2](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep2#Épisode-2-configuration-du-serveur)
-* [Retour au sommaire](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep1#Épisode-1-installations-et-création-du-projet-sails)
+* ~~[Aller au script de l'épisode 2](../Ep2/SCRIPT.md#Épisode-2-configuration-du-serveur)~~
+* [Aller au sommaire de l'épisode 2](../Ep2#Épisode-2-configuration-du-serveur)
+* [Retour au sommaire](./#Épisode-1-installations-et-création-du-projet-sails)
