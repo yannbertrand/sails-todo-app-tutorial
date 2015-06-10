@@ -63,6 +63,8 @@ Pour l'installation de Sublime Text, il faut se rendre à l'adresse http://subli
 
 Tout est prêt, je vous invite de suite à passer à l'épisode suivant pour configurer notre serveur.
 
+## Navigation
+
 * ~~[Aller au script de l'épisode 2](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep2/SCRIPT.md#Épisode-2-configuration-du-serveur)~~
 * [Aller au sommaire de l'épisode 2](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep2#Épisode-2-configuration-du-serveur)
 * [Retour au sommaire](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep1#Épisode-1-installations-et-création-du-projet-sails)

@@ -6,6 +6,6 @@
 * ~~[Lire le script](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep0/SCRIPT.md#Épisode-0-présentation)~~
 * [Télécharger la diapo](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep0/SailsToDoApp-Ep0.pdf) (format pdf)
 
-## Changement d'épisode
+## Navigation
 
 * [Aller à l'épisode 1](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep1#Épisode-1-installations-et-création-du-projet-sails)
