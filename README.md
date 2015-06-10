@@ -8,7 +8,7 @@ Cette série de tutoriels introduit le framework
 ## Liste des épisodes
 
 0. [Présentation](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep0#Épisode-0-présentation)
-1. Installations et création du projet Sails
+1. [Installations et création du projet Sails](https://github.com/SailsToDoAppTutorial/Francais/blob/master/Ep1#Épisode-1-installations-et-création-du-projet-sails)
 2. Configuration du serveur
 3. Création d'une ressource
 4. Association avec une vue
