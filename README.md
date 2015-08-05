@@ -9,10 +9,9 @@ Cette série de tutoriels introduit le framework
 
 * Ep0 - [Présentation](./Ep0#Épisode-0-présentation)
 * Ep1 - [Installations et création du projet Sails](./Ep1#Épisode-1-installations-et-création-du-projet-sails)
-* Ep2 - [Configuration du serveur](./Ep2#Épisode-2-configuration-du-serveur)
-* Ep3 - [Création d'une ressource](./Ep3#Épisode-3-création-d-une-ressource)
-* Ep4 - Association avec une vue
-* Ep5 - Liaison avec l'API
-* Ep6 - Ergonomie
+* Ep2 - [Création d'une ressource](./Ep2#Épisode-2-création-d-une-ressource)
+* Ep3 - Association avec une vue
+* Ep4 - Liaison avec l'API
+* Ep5 - Ergonomie
 * Ep Bonus - WebSockets
 * Ep Bonus - AngularJS

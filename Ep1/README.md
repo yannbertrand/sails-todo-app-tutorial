@@ -10,4 +10,4 @@
 ## Navigation
 
 * [Aller à l'épisode 0](../Ep0#Épisode-0-présentation)
-* [Aller à l'épisode 2](../Ep2#Épisode-2-configuration-du-serveur)
+* [Aller à l'épisode 2](../Ep2#Épisode-2-création-d-une-ressource)

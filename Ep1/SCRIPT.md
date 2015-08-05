@@ -65,6 +65,6 @@ Tout est prêt, je vous invite de suite à passer à l'épisode suivant pour con
 
 ## Navigation
 
-* ~~[Aller au script de l'épisode 2](../Ep2/SCRIPT.md#Épisode-2-configuration-du-serveur)~~
-* [Aller au sommaire de l'épisode 2](../Ep2#Épisode-2-configuration-du-serveur)
+* ~~[Aller au script de l'épisode 2](../Ep2/SCRIPT.md#Épisode-2-création-d-une-ressource)~~
+* [Aller au sommaire de l'épisode 2](../Ep2#Épisode-2-création-d-une-ressource)
 * [Retour au sommaire](./#Épisode-1-installations-et-création-du-projet-sails)
